@@ -1,11 +1,7 @@
 # 참고 사이트
 
-https://youtu.be/rqBh4YP_CwM
-https://github.com/AseemWangoo/expriments_with_react
+https://flatteredwithflutter.com/show-push-notifications-in-react/
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # FCM notifications in React
 
