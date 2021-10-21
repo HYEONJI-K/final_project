@@ -34,7 +34,7 @@ function App() {
         <></>
       )}
       <Notifications />
-      <Fader text="Hello React"></Fader>
+      <Fader text="Push Notification Test"></Fader>
     </div>
   );
 }
