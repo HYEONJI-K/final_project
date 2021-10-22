@@ -33,7 +33,7 @@ function App() {
         <></>
       )}
       <Notifications />
-      <text>Push Notification Test</text>
+      <h2>Push Notification Test</h2>
     </div>
   );
 }
