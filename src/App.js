@@ -1,5 +1,4 @@
 import "./App.css";
-import Fader from "./components/Fader";
 
 import React, { useState } from "react";
 import { onMessageListener } from "./firebaseInit";
@@ -34,7 +33,7 @@ function App() {
         <></>
       )}
       <Notifications />
-      <Fader text="Push Notification Test"></Fader>
+      <text>Push Notification Test</text>
     </div>
   );
 }

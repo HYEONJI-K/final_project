@@ -37,7 +37,7 @@ export const getToken = async (setTokenFound) => {
 
   return currentToken;
 };
-
+// push message
 export const onMessageListener = () =>
   new Promise((resolve) => {
     messaging.onMessage((payload) => {
