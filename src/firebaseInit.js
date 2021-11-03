@@ -1,7 +1,7 @@
 import firebase from "firebase/app";
 import "firebase/messaging";
 
-// Firebase SDK
+// Firebase SDK >> 경우에 맞게 수정
 const firebaseConfig = {
   apiKey: "AIzaSyBQyuiMPYHrMeCeyHnwuPm8rx90-IDotXE",
   authDomain: "push-web-app-539dd.firebaseapp.com",
