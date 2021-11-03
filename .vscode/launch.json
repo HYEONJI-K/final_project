@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "https://push-web-project-callbot.netlify.app/",
+            "url": "https://caii_en.sumai.co.kr/",
             "webRoot": "${workspaceFolder}"
         }
     ]
